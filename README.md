@@ -2,4 +2,5 @@
 ## Proyecto Final Synergy-Logistics
 -------------
 
-> Por Diana Aviles
+> Por Diana Laura Aviles Elizalde
+> Grupo : Data Rangers Python Squad
